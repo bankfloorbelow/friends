@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "ceaf953d76d9155d",
+    "type": "split",
+    "children": [
+      {
+        "id": "11a497e4fc7c48aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e4369ba7a663817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Friends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4ab30c46d7b15a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Friends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac457535005ef1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All friends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8d30592286d1dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Friends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2679c5b627a041b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fintech Friends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4734b6cbea338a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fintech Friends.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "252e63649e671307",
+    "type": "split",
+    "children": [
+      {
+        "id": "04e3d2e889fad310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de78063211286818",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e263de54807fdd41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52eced8ce2862c7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d98b90c5bfce4dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b2378afb2271e73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c55f981a12122bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fintech Friends.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a666cb9eeeaf5139",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fintech Friends.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a58d8e19d124c5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbb39f800329275a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fintech Friends.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "4734b6cbea338a45",
+  "lastOpenFiles": [
+    "Design Friends.md",
+    "All friends.md",
+    "Friends.md",
+    "().md",
+    "Digital Friends.md",
+    "Fintech Friends.md",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1/All ‘Friends’ 0df9f49c2f274d8fa25492e662aa1288.csv.md",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1/All ‘Friends’ 0df9f49c2f274d8fa25492e662aa1288/Абай Искандиров 014b4be8a2dd4e47b9df60eb26dffcf7.md",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1/Fintech ‘Invites’ 5ff1c6c3b58547a996eb217a0114bdcf/Адиль Нургожин 449fd745f0634a06ad2d65bbd2596212.md",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1/Fintech ‘Invites’ 5ff1c6c3b58547a996eb217a0114bdcf/Shahane Mirzoyan 184a5cb8ebec47fe86cc70c49a9532e2.md",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1/Fintech ‘Invites’ 5ff1c6c3b58547a996eb217a0114bdcf/Vladislav Turkin ea16375011694f988604a1ef78ae3260.md",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1/Fintech ‘Invites’ 5ff1c6c3b58547a996eb217a0114bdcf/Xenya Yezerskaya 91afd86da75449b180c5d8b3fd78aa53.md",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1/Fintech ‘Invites’ 5ff1c6c3b58547a996eb217a0114bdcf/Zhazira SN 31cfe9201e2c48ddb7ff05dcdd19b1b9.md",
+    "Friends 61ffd82c81f84616bc58668f9a2309b1/All ‘Friends’ 0df9f49c2f274d8fa25492e662aa1288/Абджабор Обзаборыч f85a846d52cd4a838e4c27950c83f89a.md"
+  ]
+}
